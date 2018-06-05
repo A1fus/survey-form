@@ -26,3 +26,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 -   Basic html tags including `lang` attribute.
 -   Essential meta tags.
 -   `style.css`
+-   The fonts IBM Plex Mono for headings and IBM Plex Sans for body.
