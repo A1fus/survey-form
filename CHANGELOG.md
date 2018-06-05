@@ -22,4 +22,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Added
 
--   
+-   Info about SemVer and commits to the readme.  
+-   Basic html tags including `lang` attribute.
+-   Essential meta tags.
